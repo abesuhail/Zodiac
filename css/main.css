@@ -1,9 +1,17 @@
-*{
-	background-color: #F7F7F9;
-}
 body{
 	text-align: center;
+	background-color: #F7F7F9;
 }
 input{
 	text-align: center;
+}
+h1{
+	font-family: 'Fascinate Inline', cursive;
+	font-size: 72px;
+	color: #5B3E75;
+}
+p{
+	font-family: 'Courgette', cursive;
+	font-size: 36px;
+	color: #0F4F75;
 }
